@@ -2,7 +2,7 @@
 
 ## desc
 
-this repo is implement a prime sieve with linux pipe mechanism, the mean idea is introduced in [this page](https://swtch.com/~rsc/thread/#1)
+this repo is implement a prime sieve with linux pipe mechanism, the main idea is introduced in [this page](https://swtch.com/~rsc/thread/#1)
 
 the repo need to be run with csapp environment(or you can change prime.h and include std library yourself)
 
